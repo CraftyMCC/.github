@@ -1,4 +1,4 @@
-## ⚙️​ • Équipe:
+### ⚙️​ • Équipe:
 » Gérant & Développeur: Neskuik_
 » Gérant & Communication : AstraxxTv
 
